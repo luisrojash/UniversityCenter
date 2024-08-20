@@ -21,3 +21,12 @@ dependencyResolutionManagement {
 
 rootProject.name = "UniversityCenter"
 include(":app")
+include(":core")
+include(":core:common")
+include(":core:designsystem")
+include(":core:navigation")
+include(":core:networking")
+include(":login")
+include(":login:presentation")
+include(":login:infrastructure")
+include(":login:domain")
